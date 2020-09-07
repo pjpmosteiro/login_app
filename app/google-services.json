@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "952975445124",
+    "firebase_url": "https://login-app-2d177.firebaseio.com",
+    "project_id": "login-app-2d177",
+    "storage_bucket": "login-app-2d177.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:952975445124:android:b47ee6c506b3e1f71686d1",
+        "android_client_info": {
+          "package_name": "com.lexdev.app_login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "952975445124-2skgrhav8gn6qmir7fjb4ccr3sphjiav.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzjZEUQ18AE6MmBac6eAeoixpB7bd29Tw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "952975445124-2skgrhav8gn6qmir7fjb4ccr3sphjiav.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

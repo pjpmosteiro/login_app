@@ -1,4 +1,4 @@
-package  com.lexdev.app_login.ui.login;
+package com.lexdev.app_login.ui.login;
 
 import androidx.annotation.Nullable;
 
